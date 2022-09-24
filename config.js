@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['6287898307350'] 
+global.owner = ['628981574999'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Gempy⛧⁩⁩'
-global.numberowner = '6287898307350'
-global.instagram = 'https://www.instagram.com/gmpyyy'
-global.github = 'https://github.com/gmpyyy'
-global.dana = '087898307350'
-global.pulsa = '087898307350'
-global.gopay = '-'
+global.nameowner = 'Mos⁩⁩'
+global.numberowner = '628981574999'
+global.instagram = 'https://www.instagram.com/mo.sy._'
+global.github = 'https://github.com/mosyafik'
+global.dana = '089699005480'
+global.pulsa = '089699005480'
+global.gopay = '089699005480'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'PENTABOT'
-global.gc = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2'
-global.web = 'https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'Botshin'
+global.gc = 'https://chat.whatsapp.com/'
+global.web = 'https://www.youtube.com/SyahrizalFikri' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ganti ja
 global.fotonya2 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'PENTABOT'
+global.wm = 'BotShin'
 global.watermark = wm
-global.wm2 = '                     「PENTABOT⁩ 」'
-global.wm3 = 'Gempy⛧'
+global.wm2 = '                     「BotShin⁩ 」'
+global.wm3 = 'Mos⛧'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'Created by'
-global.author = 'Gempy⛧⁩⁩'
+global.author = 'Mos⛧⁩⁩'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
